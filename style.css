@@ -1,0 +1,62 @@
+.main{
+	background-color: lightblue;
+}
+
+ul li{
+	background-color: orange;
+	border: solid 2px;
+	text-align: center;
+	width:120px;
+
+}
+img{
+	width: 120px;
+	border: solid 5px;
+	border-color: white;
+	border-radius: 20px;
+	font-weight: bold;
+}
+
+.name{
+	color: darkorange;
+}
+
+}
+h1{
+	color: orange;
+}
+
+.title{
+
+	background-color: orange;
+	color: darkcyan	;
+	font-weight: bold;
+}
+.strong{
+	font-weight: bold;
+	background-color: orange;
+	color: darkcyan;
+}
+.grey{
+	background-color: grey;
+}
+.footer{
+	background-color: darkcyan;
+	text-align: center;
+	border: solid 10px;
+	border-color: lightcoral;
+	color: white;
+}
+
+.lightblue{
+	background-color: deepskyblue;
+	font-weight: bold;
+	color: white;
+}
+.even{
+	background-color: lightgray;
+	text-align: left;
+}
+th{
+	text-align: left;
+}
